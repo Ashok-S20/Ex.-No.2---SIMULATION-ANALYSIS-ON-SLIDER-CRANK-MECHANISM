@@ -39,9 +39,11 @@
 
 ## Output
 ### MechAnalyzer Graph 
-![MechAnalyzer](MechAnalyzer.png)
+![Uploading image.png…]()
+
 ### VAD, IC and SFA module
-![VAD, IC and SFA module](<VAD, IC and SFA module.png>)
+![Uploading image.png…]()
+
 ### Name: **ASHOK S**
 ### Register Number: **212224040031**
 
